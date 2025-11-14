@@ -1,4 +1,4 @@
-PS C:\Users\IP Slim 3 06\OneDrive\Documents\Python_KKA>                                                          > & "C:\Users\IP Slim 3 06\AppData\Local\Microsoft\WindowsApps\python3.13.exe" "c:/Users/IP Slim 3 06/OneDrive/Documents/Python_KKA/penjualan.py"
+PS C:\Users\IP Slim 3 06\OneDrive\Documents\Python_KKA>
       Tanggal    Produk    Kategori    Harga  Jumlah  Pendapatan
 0  2024-01-07    Laptop  Elektronik  8000000       1     8000000
 1  2024-01-14     Mouse   Aksesoris   150000       2      300000
